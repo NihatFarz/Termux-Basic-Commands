@@ -25,7 +25,7 @@
 ### 🇱🇷-IMPORTANT NOTE WHEN DOWNLOADING, YOU WILL BE REQUESTED TO CHOOSE FOR CONFIRMATION (Y-N) ALL REQUESTS JUST CHOOSE (Y) AND CONTINUE. 
 	
 <p align="center"> 
-⠐🇦🇿*Termux-Əsas-Əmrlər
+⠐🇦🇿-Termux-Əsas-Əmrlər
 	<p align="center"> 
 	⠐🇱🇷-Termux-Basic-Commands
  <br>
