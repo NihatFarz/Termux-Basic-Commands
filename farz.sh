@@ -47,4 +47,6 @@ apt-get install nmap hydra medusa ncrack #Brutedum requirements
 	#One-Lin3r
   
 echo
-echo -e "\e[1m\e[32m Qurulum Bitdi. :\e[33m Developer NihatFarz"  
+echo -e "\e[1m\e[32m Qurulum Bitdi. :\e[33m Developer NihatFarz" 
+echo
+echo -e " Telegram @NihatFarz"
