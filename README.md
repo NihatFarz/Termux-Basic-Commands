@@ -13,7 +13,7 @@
 🇱🇷-Copy the following codes to Termux for Automatic Setup. 
 
 ```
- apt-get install bash && apt-get install git && git clone https://github.com/NihatFarz/Termux-Basic-Commands &&
+ apt-get install bash && pkg install git && git clone https://github.com/NihatFarz/Termux-Basic-Commands &&
  cd Termux-Basic-Commands && bash farz.sh
 ```
 	
