@@ -1,6 +1,27 @@
-# Termux-Basic-Commands
+<p align="center">
+   🔱「 FARZ 」🔱
+ <br>
+  <br>
 
-### Termux Quraşdılırmasında Əsas Olan Əmrlər
+
+<p align="center"> 
+⠐🇦🇿Termux-Əsas-Əmrlər
+	<p align="center"> 
+	Termux-Basic-Commands🇱🇷⠐
+ <br>
+  <br>
+
+<p align="center"> 
+Termux Yükləyən zaman əsas olan əmrlər toplusu aşağıda qeyd olunub.
+İstafadə etmək üçün sadəcə əmrlərə (Kopya) "copy" edib termux-a (Yapştırın)"paste" edin.
+
+
+ <br>
+  <br>
+
+
+
+### Termux Quraşdılırmasında Əsas Olan Əmrlər----Basic Commands in Termux Installation 
 	apt update && apt upgrade -y
 	apt-get install python -y
 	apt-get install python2 -y
@@ -46,3 +67,10 @@
 		python3 -m pip install --upgrade pip
 		pip3 install one-lin3r
 		#One-Lin3r
+	
+	
+	
+<p align="center">
+⠐🇦🇿 Əlaqə üçün🔳Contact Me🇱🇷⠐
+<p align="center">
+<a href="https://telegram.me/nihatfarz"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
