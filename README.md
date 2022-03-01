@@ -6,24 +6,45 @@
   ![İzlənmə](https://visitor-badge.laobi.icu/badge?page_id=nihatfarz.Termux-Basic-Commands)
  <br>
   <br>
+
 <p align="center"> 
-⠐🇦🇿Termux-Əsas-Əmrlər
+🇦🇿-Avtomatik Qurulum üçün Aşağıdaki Kodları Termux-a kopyalayın.
+<p align="center">
+🇱🇷-Copy the following codes to Termux for Automatic Setup. 
+
+```
+ apt-get install bash && apt-get install git && git clone https://github.com/NihatFarz/Termux-Basic-Commands &&
+ cd Termux-Basic-Commands && bash farz.sh
+```
+	
+
+ <br>
+ <br>	
+	
+### 🇦🇿-ÖNƏMLİ NOT YÜKLƏNMƏ ZAMANI SİZDƏN TƏSDİQLƏ ÜÇÜN SEÇİMLƏR İSTƏYƏCƏK (Y-N) BÜTÜN İSTƏKLƏR SADƏCƏ (Y) SEÇƏRƏK DAVAM EDİN .	
+### 🇱🇷-IMPORTANT NOTE WHEN DOWNLOADING, YOU WILL BE REQUESTED TO CHOOSE FOR CONFIRMATION (Y-N) ALL REQUESTS JUST CHOOSE (Y) AND CONTINUE. 
+	
+<p align="center"> 
+⠐🇦🇿*Termux-Əsas-Əmrlər
 	<p align="center"> 
-	Termux-Basic-Commands🇱🇷⠐
+	⠐🇱🇷-Termux-Basic-Commands
  <br>
-  <br>
+ <br>
 
 <p align="center"> 
-Termux Yükləyən zaman əsas olan əmrlər toplusu aşağıda qeyd olunub.
-İstafadə etmək üçün sadəcə əmrlərə (Kopya) "copy" edib termux-a (Yapştırın)"paste" edin.
+🇦🇿-Termux Yükləyən zaman əsas olan əmrlər toplusu aşağıda qeyd olunub.
+İstafadə etmək üçün sadəcə əmrlərə Kopya edib termux-a yapştırın edin.
+<p align="center"> 
+🇱🇷-The set of commands that are key when loading Termux is listed below.
+To use, simply copy the commands and paste them into termux. 
 
 
  <br>
-  <br>
+ <br>
 
 
 
-### Termux Quraşdılırmasında Əsas Olan Əmrlər----Basic Commands in Termux Installation 
+### 🇦🇿Termux Quraşdılırmasında Əsas Olan Əmrlər----Basic Commands in Termux Installation🇱🇷
 	apt update && apt upgrade -y
 	apt-get install python -y
 	apt-get install python2 -y
