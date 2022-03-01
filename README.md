@@ -3,7 +3,9 @@
  <br>
   <br>
 
-
+  ![İzlənmə](https://visitor-badge.laobi.icu/badge?page_id=nihatfarz.Termux-Basic-Commands)
+ <br>
+  <br>
 <p align="center"> 
 ⠐🇦🇿Termux-Əsas-Əmrlər
 	<p align="center"> 
