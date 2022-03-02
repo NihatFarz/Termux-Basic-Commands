@@ -1,5 +1,15 @@
-echo
-echo -e "\e[1m Termux Qurulumu Başlayır...!!!"
+echo 
+echo '            
+          ███████╗ █████╗ ██████╗ ███████╗
+          ██╔════╝██╔══██╗██╔══██╗╚══███╔╝
+          █████╗  ███████║██████╔╝  ███╔╝ 
+          ██╔══╝  ██╔══██║██╔══██╗ ███╔╝  
+          ██║     ██║  ██║██║  ██║███████╗
+          ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝' 
+  
+echo           
+echo -e "\e[1m\e[32m Termux Qurulumu Başladıldılır...."
+
 apt update && apt upgrade -y
 apt-get install python -y
 apt-get install python2 -y
@@ -47,6 +57,26 @@ apt-get install nmap hydra medusa ncrack #Brutedum requirements
 	#One-Lin3r
   
 echo
-echo -e "\e[1m\e[32m Qurulum Bitdi. :\e[33m Developer NihatFarz" 
+echo -e "\e[1m\e[32m Termux Qurulumu Uğurla Tamamlandı." 
+
 echo
-echo -e " Telegram @NihatFarz"
+echo -e "\e[1m\e[32m exit Yazaraq çıxış edib təkrar Termux a giriş edin"
+
+echo 
+echo '            
+          ███████╗ █████╗ ██████╗ ███████╗
+          ██╔════╝██╔══██╗██╔══██╗╚══███╔╝
+          █████╗  ███████║██████╔╝  ███╔╝ 
+          ██╔══╝  ██╔══██║██╔══██╗ ███╔╝  
+          ██║     ██║  ██║██║  ██║███████╗
+          ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝'      
+echo           
+echo -e " "        
+echo           
+echo -e "Telegram @NihatFarz"
+
+echo           
+echo -e " "
+
+echo           
+echo -e " "
