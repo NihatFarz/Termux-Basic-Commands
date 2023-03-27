@@ -56,6 +56,7 @@ apt-get install nmap hydra medusa ncrack #Brutedum requirements
 	pip3 install one-lin3r
 	#One-Lin3r
   
+  
 echo
 echo -e "\e[1m\e[32m Termux Qurulumu Uğurla Tamamlandı." 
 
